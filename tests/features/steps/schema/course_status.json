@@ -1,0 +1,15 @@
+{
+  "created": "date",
+  "mode": ">course_modes",
+  "is_active": "boolean",
+  "course_details": {
+    "course_id": "UUID",
+    "enrollment_end": "datetime",
+    "enrollment_start": "datetime",
+    "invite_only": "boolean"
+  },
+  "course_modes": [
+    {"slug":"string", "name":"string", "expiration_datetime":"datetime", "description":"text"}
+  ],
+  "user": "UUID"
+}

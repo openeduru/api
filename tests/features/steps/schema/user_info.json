@@ -1,0 +1,14 @@
+{
+  "username": "string",
+  "name": "string",
+  "email": "string",
+  "date_joined": "string",
+  "gender": ["m","f","o",null],
+  "level_of_education": ["p","m","b","s","hs","jhs","el","none","o",null],
+  "org": "*",
+  "language": "*",
+  "country": "*",
+  "city": "string",
+  "mailing_address": "text",
+  "goals": "text|null"
+}
